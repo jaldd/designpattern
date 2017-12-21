@@ -1,4 +1,4 @@
-package org.shaotang.design.pattern;
+package org.shaotang.design.pattern.simplefactory;
 
 import java.io.IOException;
 import java.io.InputStream;
